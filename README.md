@@ -1,4 +1,9 @@
 TIC TAC TOE
 
+The Tic Tac Toe game in React.
 
-1st React Project
+Stack:
+
+. React
+. Styles with Sass
+
