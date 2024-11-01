@@ -26,7 +26,7 @@ This game is suitable for anyone who enjoys casual gaming, including:
 
 - **React**: For building the user interface and managing application state.
 - **HTML**: For structuring the game layout.
-- **CSS**: For styling the game board and enhancing user experience.
+- **Sass**: For advanced styling and better organization of CSS.
 
 ### Future Improvements
 
@@ -39,10 +39,6 @@ This game is suitable for anyone who enjoys casual gaming, including:
 - [React Documentation](https://reactjs.org/docs/getting-started.html) - Official React documentation for learning and reference.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - A great resource for web development documentation.
 - [W3Schools](https://www.w3schools.com/) - Tutorials and references for web development languages.
-
-## Authors
-
-- [@Sagnik-Coder24](https://github.com/Sagnik-Coder24)
 
 ## Demo
 
@@ -92,6 +88,7 @@ Start the server
 - **React.js**: A JavaScript library for building user interfaces, used to create the game's interactive components.
 - **HTML5**: The standard markup language for structuring the game layout.
 - **CSS3**: Used for styling the game interface, providing a visually appealing design.
+- **Sass**: For advanced styling and better organization of styles.
 - **JavaScript**: The programming language used for implementing game logic and interactivity.
 - **Git**: Version control system used for tracking changes and collaboration.
 - **GitHub**: Platform for hosting the repository and facilitating contributions.
@@ -104,4 +101,6 @@ This combination of technologies allows for a smooth and efficient development p
 
 Contributions are always welcome! Whether you want to report a bug, suggest an enhancement, or submit a pull request, your feedback is appreciated.
 
+## Authors
 
+- [@Sagnik-Coder24](https://github.com/Sagnik-Coder24)
