@@ -56,6 +56,7 @@ You can see the Tic Tac Toe game in action through the link - [Live Demo](https:
 - **Win Detection**: The game automatically detects and announces the winner or a draw.
 - **Reset Functionality**: Easily restart the game with a single button click.
 - **User-Friendly Interface**: Simple and intuitive layout, making it easy for players of all ages to enjoy.
+- **Game History Navigation**: Players can revisit any previous step in the game, allowing them to see past moves and reflect on strategies.
 
 ## Run Locally
 
